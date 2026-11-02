@@ -34,6 +34,6 @@ Desenvolvedor independente que constrói sistemas completos e **coloca no ar**: 
 
 ### 📫 Contato
 
-- LinkedIn: [alfredo-santos-filho](https://www.linkedin.com/in/alfredo-santos-filho-2b467b127)
+- LinkedIn: [alfredo-santos-filho](https://www.linkedin.com/in/jose-alfredo-dos-santos-filho-2b467b127)
 - YouTube (demos e evolução do Pequena Semente): [AmigoPython — @amigopython8254](https://www.youtube.com/@amigopython8254)
 - Disponível para oportunidades em backend, IA aplicada e infraestrutura/cloud — Brasil e remoto internacional
