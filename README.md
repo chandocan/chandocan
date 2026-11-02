@@ -8,7 +8,7 @@ Desenvolvedor independente que constrói sistemas completos e **coloca no ar**: 
 
 ### 🌱 Projetos em destaque
 
-**[Pequena Semente](https://github.com/chandocan/pequena-semente)** → plataforma de leitura bíblica e escrita de sermões
+**[Pequena Semente — project overview](https://github.com/chandocan/pequena-semente-showcase)** → plataforma de leitura bíblica e escrita de sermões *(apresentação pública; código-fonte privado, disponível sob solicitação)*
 `Java/Spring Boot · Python/FastAPI · Gemini · Piper TTS · Docker · Nginx · Oracle Cloud`
 
 > Em desenvolvimento e operação **desde 2019** — começou **sem IA**: cresceu como aplicação clássica (desktop + servidor) primeiro, e os módulos de IA (recursos com Gemini, chat mediado por agente, síntese de voz) foram incorporados em iterações posteriores. Operação completa por mim: banco de dados, chat em tempo real, filas, TLS, firewall e backups nos meus próprios servidores Ubuntu na Oracle Cloud.
